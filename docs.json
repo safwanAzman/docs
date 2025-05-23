@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "mint",
   "name": "exptoe",
   "colors": {
     "primary": "#0F50FF",
@@ -74,6 +74,10 @@
         }
       ]
     }
+  },
+  "modeToggle": {
+    "default": "light",
+    "isHidden": true
   },
   "logo": {
     "light": "/logo/light.svg",
