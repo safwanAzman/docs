@@ -4,7 +4,7 @@
   "name": "exptoe",
   "colors": {
     "primary": "#0F50FF",
-    "light": "#07C983",
+    "light": "#0F50FF",
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
@@ -76,7 +76,7 @@
     }
   },
   "modeToggle": {
-    "default": "light",
+    "default": "dark",
     "isHidden": true
   },
   "logo": {
@@ -92,6 +92,7 @@
     ],
     "primary": {
       "type": "button",
+    
       "label": "Dashboard",
       "href": "https://dashboard.mintlify.com"
     }
